@@ -11,5 +11,3 @@ def assign_rooms(array)
     return assignment
 end
 
-def each_with_index
-end
