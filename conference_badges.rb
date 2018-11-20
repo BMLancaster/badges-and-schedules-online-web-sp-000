@@ -1,6 +1,7 @@
 # Write your code here.
 
-def badge_maker
+def badge_maker(name)
+  
 def assign_rooms(array)
   assignment = []
   array.each do |name|
