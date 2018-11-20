@@ -1,7 +1,7 @@
 # Write your code here.
 
 def assign_rooms(array)
-  nuarray = []
+  newarray = []
 end
 
 def each_with_index
