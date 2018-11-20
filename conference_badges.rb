@@ -2,7 +2,7 @@
 
 def assign_rooms(array)
   newarray = []
-  array 
+  array.each do 
 end
 
 def each_with_index
