@@ -1,7 +1,7 @@
 # Write your code here.
 
 def assign_rooms(array)
-  newarray = []
+  assignment = []
   array.each do 
 end
 
