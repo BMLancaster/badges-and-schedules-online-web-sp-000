@@ -3,7 +3,7 @@
 def assign_rooms(array)
   assignment = []
   array.each do |name|
-    assignment.push
+    assignment.push("Hello my name is {#name}")
 end
 
 def each_with_index
