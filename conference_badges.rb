@@ -1,6 +1,7 @@
 # Write your code here.
 people = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 def badge_maker(name)
+  return "Hello my name is #{name}"
   
 def assign_rooms(array)
   assignment = []
