@@ -2,7 +2,8 @@
 
 def assign_rooms(array)
   assignment = []
-  array.each do 
+  array.each do |name|
+    
 end
 
 def each_with_index
