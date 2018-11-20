@@ -1,5 +1,6 @@
 # Write your code here.
 
+def badge_maker
 def assign_rooms(array)
   assignment = []
   array.each do |name|
