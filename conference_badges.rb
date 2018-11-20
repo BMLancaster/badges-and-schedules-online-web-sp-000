@@ -1,5 +1,5 @@
 # Write your code here.
-
+people = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 def badge_maker(name)
   
 def assign_rooms(array)
